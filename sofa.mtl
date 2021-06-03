@@ -1,0 +1,387 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Sofa_Shamwa
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa.jpg
+
+newmtl Sofa_Shamwa1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa1_.jpg
+
+newmtl Sofa_Shamwa2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa2_.jpg
+
+newmtl Sofa_Shamwa3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa3_.jpg
+
+newmtl Sofa_Shamwa4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa4_.jpg
+
+newmtl Sofa_Shamwa5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa5_.jpg
+
+newmtl Sofa_Shamwa6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa6_.jpg
+
+newmtl Sofa_Shamwa7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa7_.jpg
+
+newmtl Sofa_Shamwa8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa8_.jpg
+
+newmtl Sofa_Shamwa9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa9_.jpg
+
+newmtl Sofa_Shamwa10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa10_.jpg
+
+newmtl Sofa_Shamwa11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa11_.jpg
+
+newmtl Sofa_Shamwa12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa12_.jpg
+
+newmtl Sofa_Shamwa13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa13_.jpg
+
+newmtl Sofa_Shamwa14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa14_.jpg
+
+newmtl Sofa_Shamwa15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa15_.jpg
+
+newmtl Sofa_Shamwa16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa16_.jpg
+
+newmtl Sofa_Shamwa17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa17_.jpg
+
+newmtl Sofa_Shamwa18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa18_.jpg
+
+newmtl Sofa_Shamwa19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa19_.jpg
+
+newmtl Sofa_Shamwa20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa20_.jpg
+
+newmtl Sofa_Shamwa21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa21_.jpg
+
+newmtl Sofa_Shamwa22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa22_.jpg
+
+newmtl Sofa_Shamwa23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa23_.jpg
+
+newmtl Sofa_Shamwa24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa24_.jpg
+
+newmtl Sofa_Shamwa25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa25_.jpg
+
+newmtl Sofa_Shamwa26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa26_.jpg
+
+newmtl Sofa_Shamwa27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa27_.jpg
+
+newmtl Sofa_Shamwa28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa28_.jpg
+
+newmtl Sofa_Shamwa29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa29_.jpg
+
+newmtl Sofa_Shamwa30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa30_.jpg
+
+newmtl Sofa_Shamwa31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa31_.jpg
+
+newmtl Sofa_Shamwa32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa32_.jpg
+
+newmtl Sofa_Shamwa33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa33_.jpg
+
+newmtl Sofa_Shamwa34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa34_.jpg
+
+newmtl Sofa_Shamwa35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa35_.jpg
+
+newmtl Sofa_Shamwa36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa36_.jpg
+
+newmtl Sofa_Shamwa37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa37_.jpg
+
+newmtl Sofa_Shamwa38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa38_.jpg
+
+newmtl Sofa_Shamwa39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa39_.jpg
+
+newmtl Sofa_Shamwa40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa40_.jpg
+
+newmtl Sofa_Shamwa41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa41_.jpg
+
+newmtl Sofa_Shamwa42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa42_.jpg
+
+newmtl Sofa_Shamwa43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa43_.jpg
+
+newmtl sofa_leather
+Ka 0.000000 0.000000 0.000000
+Kd 0.149020 0.149020 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_leather.jpg
+
+newmtl sofa_shamwa_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3.jpg
+
+newmtl sofa_shamwa_3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_1_.jpg
+
+newmtl sofa_shamwa_3_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_2_.jpg
+
+newmtl sofa_shamwa_3_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_3_.jpg
+
+newmtl sofa_shamwa_3_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_4_.jpg
+
+newmtl sofa_shamwa_3_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_5_.jpg
+
+newmtl sofa_shamwa_3_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_6_.jpg
+
+newmtl sofa_shamwa_3_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa_shamwa_3_7_.jpg
+
+newmtl _LightGray_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.658824 0.658824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Sofa_Shamwa44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa44_.jpg
+
+newmtl Sofa_Shamwa45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa45_.jpg
+
+newmtl Sofa_Shamwa46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa46_.jpg
+
+newmtl Sofa_Shamwa47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa47_.jpg
+
+newmtl SketchUV_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.603922 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/SketchUV_Texture.jpg
+
+newmtl Sofa_Shamwa48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa48_.jpg
+
+newmtl Sofa_Shamwa49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.113725 0.113725 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/Sofa_Shamwa49_.jpg
+
+newmtl pattern4
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/pattern4.jpg
+
+newmtl sofa
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.478431 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/sofa.jpg
+
+newmtl _auto_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.568627 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd sofa/_auto_7.png
+

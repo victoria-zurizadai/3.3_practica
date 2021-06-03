@@ -1,0 +1,5023 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _9
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.729412 0.603922
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _10
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.568627 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/_10.jpg
+
+newmtl Vegetation_Grass1
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1.jpg
+
+newmtl Vegetation_Grass1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_1_.jpg
+
+newmtl Vegetation_Grass1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_2_.jpg
+
+newmtl Vegetation_Grass1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_3_.jpg
+
+newmtl Vegetation_Grass1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_4_.jpg
+
+newmtl Vegetation_Grass1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_5_.jpg
+
+newmtl Vegetation_Grass1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_6_.jpg
+
+newmtl Vegetation_Grass1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_7_.jpg
+
+newmtl Vegetation_Grass1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_8_.jpg
+
+newmtl Vegetation_Grass1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_9_.jpg
+
+newmtl Vegetation_Grass1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_10_.jpg
+
+newmtl Vegetation_Grass1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_11_.jpg
+
+newmtl Vegetation_Grass1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_12_.jpg
+
+newmtl Vegetation_Grass1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_13_.jpg
+
+newmtl Vegetation_Grass1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_14_.jpg
+
+newmtl Vegetation_Grass1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_15_.jpg
+
+newmtl Vegetation_Grass1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_16_.jpg
+
+newmtl Vegetation_Grass1_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_17_.jpg
+
+newmtl Vegetation_Grass1_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_18_.jpg
+
+newmtl Vegetation_Grass1_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_19_.jpg
+
+newmtl Vegetation_Grass1_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_20_.jpg
+
+newmtl Vegetation_Grass1_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_21_.jpg
+
+newmtl Vegetation_Grass1_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_22_.jpg
+
+newmtl Vegetation_Grass1_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_23_.jpg
+
+newmtl Vegetation_Grass1_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_24_.jpg
+
+newmtl Vegetation_Grass1_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_25_.jpg
+
+newmtl Vegetation_Grass1_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_26_.jpg
+
+newmtl Vegetation_Grass1_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_27_.jpg
+
+newmtl Vegetation_Grass1_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_28_.jpg
+
+newmtl Color_A05
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.800000 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Grass1_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_29_.jpg
+
+newmtl Vegetation_Grass1_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_30_.jpg
+
+newmtl Vegetation_Grass1_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_31_.jpg
+
+newmtl Vegetation_Grass1_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_32_.jpg
+
+newmtl Vegetation_Grass1_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_33_.jpg
+
+newmtl Vegetation_Grass1_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_34_.jpg
+
+newmtl Vegetation_Grass1_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_35_.jpg
+
+newmtl Vegetation_Grass1_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_36_.jpg
+
+newmtl Vegetation_Grass1_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_37_.jpg
+
+newmtl Vegetation_Grass1_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_38_.jpg
+
+newmtl Vegetation_Grass1_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_39_.jpg
+
+newmtl Vegetation_Grass1_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_40_.jpg
+
+newmtl Vegetation_Grass1_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_41_.jpg
+
+newmtl Vegetation_Grass1_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_42_.jpg
+
+newmtl Vegetation_Grass1_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_43_.jpg
+
+newmtl Vegetation_Grass1_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_44_.jpg
+
+newmtl Vegetation_Grass1_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_45_.jpg
+
+newmtl Vegetation_Grass1_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_46_.jpg
+
+newmtl Vegetation_Grass1_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_47_.jpg
+
+newmtl Vegetation_Grass1_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_48_.jpg
+
+newmtl Color_F14
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.600000 0.356863
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Grass1_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_49_.jpg
+
+newmtl Vegetation_Grass1_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_50_.jpg
+
+newmtl Vegetation_Grass1_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_51_.jpg
+
+newmtl Vegetation_Grass1_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_52_.jpg
+
+newmtl Vegetation_Grass1_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_53_.jpg
+
+newmtl Vegetation_Grass1_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_54_.jpg
+
+newmtl Vegetation_Grass1_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_55_.jpg
+
+newmtl Vegetation_Grass1_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_56_.jpg
+
+newmtl Vegetation_Grass1_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_57_.jpg
+
+newmtl Vegetation_Grass1_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_58_.jpg
+
+newmtl Vegetation_Grass1_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_59_.jpg
+
+newmtl Vegetation_Grass1_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_60_.jpg
+
+newmtl Vegetation_Grass1_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_61_.jpg
+
+newmtl Vegetation_Grass1_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_62_.jpg
+
+newmtl Vegetation_Grass1_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_63_.jpg
+
+newmtl Vegetation_Grass1_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_64_.jpg
+
+newmtl Vegetation_Grass1_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_65_.jpg
+
+newmtl Vegetation_Grass1_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_66_.jpg
+
+newmtl Vegetation_Grass1_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_67_.jpg
+
+newmtl Vegetation_Grass1_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_68_.jpg
+
+newmtl Vegetation_Grass1_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_69_.jpg
+
+newmtl Vegetation_Grass1_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_70_.jpg
+
+newmtl Vegetation_Grass1_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_71_.jpg
+
+newmtl Vegetation_Grass1_72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_72_.jpg
+
+newmtl Vegetation_Grass1_73_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_73_.jpg
+
+newmtl Vegetation_Grass1_74_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_74_.jpg
+
+newmtl Vegetation_Grass1_75_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_75_.jpg
+
+newmtl Vegetation_Grass1_76_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_76_.jpg
+
+newmtl Vegetation_Grass1_77_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_77_.jpg
+
+newmtl Vegetation_Grass1_78_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_78_.jpg
+
+newmtl Vegetation_Grass1_79_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_79_.jpg
+
+newmtl Vegetation_Grass1_80_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_80_.jpg
+
+newmtl Vegetation_Grass1_81_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_81_.jpg
+
+newmtl Vegetation_Grass1_82_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_82_.jpg
+
+newmtl Vegetation_Grass1_83_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_83_.jpg
+
+newmtl Vegetation_Grass1_84_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_84_.jpg
+
+newmtl Vegetation_Grass1_85_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_85_.jpg
+
+newmtl Vegetation_Grass1_86_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_86_.jpg
+
+newmtl Vegetation_Grass1_87_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_87_.jpg
+
+newmtl Vegetation_Grass1_88_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_88_.jpg
+
+newmtl Vegetation_Grass1_89_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_89_.jpg
+
+newmtl Vegetation_Grass1_90_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_90_.jpg
+
+newmtl Vegetation_Grass1_91_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_91_.jpg
+
+newmtl Vegetation_Grass1_92_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_92_.jpg
+
+newmtl Vegetation_Grass1_93_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_93_.jpg
+
+newmtl Vegetation_Grass1_94_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_94_.jpg
+
+newmtl Vegetation_Grass1_95_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_95_.jpg
+
+newmtl Vegetation_Grass1_96_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_96_.jpg
+
+newmtl Vegetation_Grass1_97_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_97_.jpg
+
+newmtl Vegetation_Grass1_98_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_98_.jpg
+
+newmtl Vegetation_Grass1_99_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_99_.jpg
+
+newmtl Vegetation_Grass1_100_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_100_.jpg
+
+newmtl Vegetation_Grass1_101_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_101_.jpg
+
+newmtl Vegetation_Grass1_102_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_102_.jpg
+
+newmtl Vegetation_Grass1_103_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_103_.jpg
+
+newmtl Vegetation_Grass1_104_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_104_.jpg
+
+newmtl Vegetation_Grass1_105_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_105_.jpg
+
+newmtl Vegetation_Grass1_106_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_106_.jpg
+
+newmtl Vegetation_Grass1_107_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_107_.jpg
+
+newmtl Vegetation_Grass1_108_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_108_.jpg
+
+newmtl Vegetation_Grass1_109_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_109_.jpg
+
+newmtl Vegetation_Grass1_110_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_110_.jpg
+
+newmtl Vegetation_Grass1_111_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_111_.jpg
+
+newmtl Vegetation_Grass1_112_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_112_.jpg
+
+newmtl Vegetation_Grass1_113_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_113_.jpg
+
+newmtl Vegetation_Grass1_114_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_114_.jpg
+
+newmtl Vegetation_Grass1_115_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_115_.jpg
+
+newmtl Vegetation_Grass1_116_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_116_.jpg
+
+newmtl Vegetation_Grass1_117_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_117_.jpg
+
+newmtl Vegetation_Grass1_118_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_118_.jpg
+
+newmtl Vegetation_Grass1_119_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_119_.jpg
+
+newmtl Vegetation_Grass1_120_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_120_.jpg
+
+newmtl Vegetation_Grass1_121_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_121_.jpg
+
+newmtl Vegetation_Grass1_122_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_122_.jpg
+
+newmtl Vegetation_Grass1_123_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_123_.jpg
+
+newmtl Vegetation_Grass1_124_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_124_.jpg
+
+newmtl Vegetation_Grass1_125_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_125_.jpg
+
+newmtl Vegetation_Grass1_126_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_126_.jpg
+
+newmtl Vegetation_Grass1_127_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_127_.jpg
+
+newmtl Vegetation_Grass1_128_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_128_.jpg
+
+newmtl Vegetation_Grass1_129_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_129_.jpg
+
+newmtl Vegetation_Grass1_130_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_130_.jpg
+
+newmtl Vegetation_Grass1_131_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_131_.jpg
+
+newmtl Vegetation_Grass1_132_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_132_.jpg
+
+newmtl Vegetation_Grass1_133_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_133_.jpg
+
+newmtl Vegetation_Grass1_134_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_134_.jpg
+
+newmtl Vegetation_Grass1_135_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_135_.jpg
+
+newmtl Vegetation_Grass1_136_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_136_.jpg
+
+newmtl Vegetation_Grass1_137_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_137_.jpg
+
+newmtl Vegetation_Grass1_138_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_138_.jpg
+
+newmtl Vegetation_Grass1_139_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_139_.jpg
+
+newmtl Vegetation_Grass1_140_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_140_.jpg
+
+newmtl Vegetation_Grass1_141_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_141_.jpg
+
+newmtl Vegetation_Grass1_142_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_142_.jpg
+
+newmtl Vegetation_Grass1_143_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_143_.jpg
+
+newmtl Vegetation_Grass1_144_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_144_.jpg
+
+newmtl Vegetation_Grass1_145_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_145_.jpg
+
+newmtl Vegetation_Grass1_146_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_146_.jpg
+
+newmtl Vegetation_Grass1_147_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_147_.jpg
+
+newmtl Vegetation_Grass1_148_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_148_.jpg
+
+newmtl Vegetation_Grass1_149_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_149_.jpg
+
+newmtl Vegetation_Grass1_150_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_150_.jpg
+
+newmtl Vegetation_Grass1_151_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_151_.jpg
+
+newmtl Vegetation_Grass1_152_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_152_.jpg
+
+newmtl Vegetation_Grass1_153_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_153_.jpg
+
+newmtl Vegetation_Grass1_154_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_154_.jpg
+
+newmtl Vegetation_Grass1_155_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_155_.jpg
+
+newmtl Vegetation_Grass1_156_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_156_.jpg
+
+newmtl Vegetation_Grass1_157_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_157_.jpg
+
+newmtl Vegetation_Grass1_158_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_158_.jpg
+
+newmtl Vegetation_Grass1_159_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_159_.jpg
+
+newmtl Vegetation_Grass1_160_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_160_.jpg
+
+newmtl Vegetation_Grass1_161_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_161_.jpg
+
+newmtl Vegetation_Grass1_162_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_162_.jpg
+
+newmtl Vegetation_Grass1_163_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_163_.jpg
+
+newmtl Vegetation_Grass1_164_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_164_.jpg
+
+newmtl Vegetation_Grass1_165_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_165_.jpg
+
+newmtl Vegetation_Grass1_166_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_166_.jpg
+
+newmtl Vegetation_Grass1_167_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_167_.jpg
+
+newmtl Vegetation_Grass1_168_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_168_.jpg
+
+newmtl Vegetation_Grass1_169_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_169_.jpg
+
+newmtl Vegetation_Grass1_170_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_170_.jpg
+
+newmtl Vegetation_Grass1_171_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_171_.jpg
+
+newmtl Vegetation_Grass1_172_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_172_.jpg
+
+newmtl Vegetation_Grass1_173_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_173_.jpg
+
+newmtl Vegetation_Grass1_174_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_174_.jpg
+
+newmtl Vegetation_Grass1_175_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_175_.jpg
+
+newmtl Vegetation_Grass1_176_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_176_.jpg
+
+newmtl Vegetation_Grass1_177_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_177_.jpg
+
+newmtl Vegetation_Grass1_178_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_178_.jpg
+
+newmtl Vegetation_Grass1_179_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_179_.jpg
+
+newmtl Vegetation_Grass1_180_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_180_.jpg
+
+newmtl Vegetation_Grass1_181_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_181_.jpg
+
+newmtl Vegetation_Grass1_182_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_182_.jpg
+
+newmtl Vegetation_Grass1_183_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_183_.jpg
+
+newmtl Vegetation_Grass1_184_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_184_.jpg
+
+newmtl Vegetation_Grass1_185_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_185_.jpg
+
+newmtl Vegetation_Grass1_186_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_186_.jpg
+
+newmtl Vegetation_Grass1_187_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_187_.jpg
+
+newmtl Vegetation_Grass1_188_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_188_.jpg
+
+newmtl Vegetation_Grass1_189_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_189_.jpg
+
+newmtl Vegetation_Grass1_190_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_190_.jpg
+
+newmtl Vegetation_Grass1_191_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_191_.jpg
+
+newmtl Vegetation_Grass1_192_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_192_.jpg
+
+newmtl Vegetation_Grass1_193_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_193_.jpg
+
+newmtl Vegetation_Grass1_194_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_194_.jpg
+
+newmtl Vegetation_Grass1_195_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_195_.jpg
+
+newmtl Vegetation_Grass1_196_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_196_.jpg
+
+newmtl Vegetation_Grass1_197_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_197_.jpg
+
+newmtl Vegetation_Grass1_198_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_198_.jpg
+
+newmtl Vegetation_Grass1_199_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_199_.jpg
+
+newmtl Vegetation_Grass1_200_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_200_.jpg
+
+newmtl Vegetation_Grass1_201_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_201_.jpg
+
+newmtl Vegetation_Grass1_202_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_202_.jpg
+
+newmtl Vegetation_Grass1_203_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_203_.jpg
+
+newmtl Vegetation_Grass1_204_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_204_.jpg
+
+newmtl Vegetation_Grass1_205_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_205_.jpg
+
+newmtl Vegetation_Grass1_206_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_206_.jpg
+
+newmtl Vegetation_Grass1_207_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_207_.jpg
+
+newmtl Vegetation_Grass1_208_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_208_.jpg
+
+newmtl Vegetation_Grass1_209_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_209_.jpg
+
+newmtl Vegetation_Grass1_210_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_210_.jpg
+
+newmtl Vegetation_Grass1_211_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_211_.jpg
+
+newmtl Vegetation_Grass1_212_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_212_.jpg
+
+newmtl Vegetation_Grass1_213_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_213_.jpg
+
+newmtl Vegetation_Grass1_214_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_214_.jpg
+
+newmtl Vegetation_Grass1_215_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_215_.jpg
+
+newmtl Vegetation_Grass1_216_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_216_.jpg
+
+newmtl Vegetation_Grass1_217_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_217_.jpg
+
+newmtl Vegetation_Grass1_218_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_218_.jpg
+
+newmtl Vegetation_Grass1_219_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_219_.jpg
+
+newmtl Vegetation_Grass1_220_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_220_.jpg
+
+newmtl Vegetation_Grass1_221_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_221_.jpg
+
+newmtl Vegetation_Grass1_222_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_222_.jpg
+
+newmtl Vegetation_Grass1_223_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_223_.jpg
+
+newmtl Vegetation_Grass1_224_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_224_.jpg
+
+newmtl Vegetation_Grass1_225_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_225_.jpg
+
+newmtl Vegetation_Grass1_226_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_226_.jpg
+
+newmtl Vegetation_Grass1_227_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_227_.jpg
+
+newmtl Vegetation_Grass1_228_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_228_.jpg
+
+newmtl Vegetation_Grass1_229_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_229_.jpg
+
+newmtl Vegetation_Grass1_230_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_230_.jpg
+
+newmtl Vegetation_Grass1_231_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_231_.jpg
+
+newmtl Vegetation_Grass1_232_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_232_.jpg
+
+newmtl Vegetation_Grass1_233_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_233_.jpg
+
+newmtl Vegetation_Grass1_234_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_234_.jpg
+
+newmtl Vegetation_Grass1_235_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_235_.jpg
+
+newmtl Vegetation_Grass1_236_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_236_.jpg
+
+newmtl Vegetation_Grass1_237_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_237_.jpg
+
+newmtl Vegetation_Grass1_238_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_238_.jpg
+
+newmtl Vegetation_Grass1_239_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_239_.jpg
+
+newmtl Vegetation_Grass1_240_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_240_.jpg
+
+newmtl Vegetation_Grass1_241_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_241_.jpg
+
+newmtl Vegetation_Grass1_242_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_242_.jpg
+
+newmtl Vegetation_Grass1_243_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_243_.jpg
+
+newmtl Vegetation_Grass1_244_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_244_.jpg
+
+newmtl Vegetation_Grass1_245_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_245_.jpg
+
+newmtl Vegetation_Grass1_246_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_246_.jpg
+
+newmtl Vegetation_Grass1_247_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_247_.jpg
+
+newmtl Vegetation_Grass1_248_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_248_.jpg
+
+newmtl Vegetation_Grass1_249_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_249_.jpg
+
+newmtl Vegetation_Grass1_250_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_250_.jpg
+
+newmtl Vegetation_Grass1_251_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_251_.jpg
+
+newmtl Vegetation_Grass1_252_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_252_.jpg
+
+newmtl Vegetation_Grass1_253_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_253_.jpg
+
+newmtl Vegetation_Grass1_254_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_254_.jpg
+
+newmtl Vegetation_Grass1_255_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_255_.jpg
+
+newmtl Vegetation_Grass1_256_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_256_.jpg
+
+newmtl Vegetation_Grass1_257_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_257_.jpg
+
+newmtl Vegetation_Grass1_258_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_258_.jpg
+
+newmtl Vegetation_Grass1_259_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_259_.jpg
+
+newmtl Vegetation_Grass1_260_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_260_.jpg
+
+newmtl Vegetation_Grass1_261_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_261_.jpg
+
+newmtl Vegetation_Grass1_262_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_262_.jpg
+
+newmtl Vegetation_Grass1_263_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_263_.jpg
+
+newmtl Vegetation_Grass1_264_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_264_.jpg
+
+newmtl Vegetation_Grass1_265_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_265_.jpg
+
+newmtl Vegetation_Grass1_266_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_266_.jpg
+
+newmtl Vegetation_Grass1_267_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_267_.jpg
+
+newmtl Vegetation_Grass1_268_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_268_.jpg
+
+newmtl Vegetation_Grass1_269_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_269_.jpg
+
+newmtl Vegetation_Grass1_270_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_270_.jpg
+
+newmtl Vegetation_Grass1_271_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_271_.jpg
+
+newmtl Color_E04
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.600000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_C01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.498039 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_L11
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.000000 0.298039
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_E01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.905882 0.152941
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Grass1_272_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_272_.jpg
+
+newmtl Vegetation_Grass1_273_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_273_.jpg
+
+newmtl Vegetation_Grass1_274_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_274_.jpg
+
+newmtl Vegetation_Grass1_275_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_275_.jpg
+
+newmtl Vegetation_Grass1_276_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_276_.jpg
+
+newmtl Vegetation_Grass1_277_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_277_.jpg
+
+newmtl Vegetation_Grass1_278_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_278_.jpg
+
+newmtl Vegetation_Grass1_279_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_279_.jpg
+
+newmtl Vegetation_Grass1_280_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_280_.jpg
+
+newmtl Vegetation_Grass1_281_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_281_.jpg
+
+newmtl Vegetation_Grass1_282_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_282_.jpg
+
+newmtl Vegetation_Grass1_283_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_283_.jpg
+
+newmtl Vegetation_Grass1_284_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_284_.jpg
+
+newmtl Vegetation_Grass1_285_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_285_.jpg
+
+newmtl Vegetation_Grass1_286_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_286_.jpg
+
+newmtl Vegetation_Grass1_287_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_287_.jpg
+
+newmtl Vegetation_Grass1_288_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_288_.jpg
+
+newmtl Vegetation_Grass1_289_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_289_.jpg
+
+newmtl Vegetation_Grass1_290_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_290_.jpg
+
+newmtl Vegetation_Grass1_291_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_291_.jpg
+
+newmtl Vegetation_Grass1_292_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_292_.jpg
+
+newmtl Vegetation_Grass1_293_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_293_.jpg
+
+newmtl Vegetation_Grass1_294_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_294_.jpg
+
+newmtl Vegetation_Grass1_295_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_295_.jpg
+
+newmtl Vegetation_Grass1_296_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_296_.jpg
+
+newmtl Vegetation_Grass1_297_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_297_.jpg
+
+newmtl Vegetation_Grass1_298_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_298_.jpg
+
+newmtl Vegetation_Grass1_299_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_299_.jpg
+
+newmtl Vegetation_Grass1_300_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_300_.jpg
+
+newmtl Vegetation_Grass1_301_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_301_.jpg
+
+newmtl Vegetation_Grass1_302_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_302_.jpg
+
+newmtl Vegetation_Grass1_303_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_303_.jpg
+
+newmtl Vegetation_Grass1_304_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_304_.jpg
+
+newmtl Vegetation_Grass1_305_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_305_.jpg
+
+newmtl Vegetation_Grass1_306_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_306_.jpg
+
+newmtl Vegetation_Grass1_307_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_307_.jpg
+
+newmtl Vegetation_Grass1_308_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_308_.jpg
+
+newmtl Vegetation_Grass1_309_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_309_.jpg
+
+newmtl Vegetation_Grass1_310_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_310_.jpg
+
+newmtl Vegetation_Grass1_311_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_311_.jpg
+
+newmtl Vegetation_Grass1_312_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_312_.jpg
+
+newmtl Vegetation_Grass1_313_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_313_.jpg
+
+newmtl Vegetation_Grass1_314_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_314_.jpg
+
+newmtl Vegetation_Grass1_315_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_315_.jpg
+
+newmtl Vegetation_Grass1_316_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_316_.jpg
+
+newmtl Vegetation_Grass1_317_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_317_.jpg
+
+newmtl Vegetation_Grass1_318_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_318_.jpg
+
+newmtl Vegetation_Grass1_319_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_319_.jpg
+
+newmtl Vegetation_Grass1_320_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_320_.jpg
+
+newmtl Vegetation_Grass1_321_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_321_.jpg
+
+newmtl Vegetation_Grass1_322_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_322_.jpg
+
+newmtl Vegetation_Grass1_323_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_323_.jpg
+
+newmtl Vegetation_Grass1_324_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_324_.jpg
+
+newmtl Vegetation_Grass1_325_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_325_.jpg
+
+newmtl Vegetation_Grass1_326_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_326_.jpg
+
+newmtl Vegetation_Grass1_327_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_327_.jpg
+
+newmtl Vegetation_Grass1_328_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_328_.jpg
+
+newmtl Vegetation_Grass1_329_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_329_.jpg
+
+newmtl Vegetation_Grass1_330_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_330_.jpg
+
+newmtl Vegetation_Grass1_331_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_331_.jpg
+
+newmtl Vegetation_Grass1_332_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_332_.jpg
+
+newmtl Vegetation_Grass1_333_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_333_.jpg
+
+newmtl Vegetation_Grass1_334_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_334_.jpg
+
+newmtl Vegetation_Grass1_335_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_335_.jpg
+
+newmtl Vegetation_Grass1_336_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_336_.jpg
+
+newmtl Vegetation_Grass1_337_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_337_.jpg
+
+newmtl Vegetation_Grass1_338_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_338_.jpg
+
+newmtl Vegetation_Grass1_339_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_339_.jpg
+
+newmtl Vegetation_Grass1_340_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_340_.jpg
+
+newmtl Vegetation_Grass1_341_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_341_.jpg
+
+newmtl Vegetation_Grass1_342_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_342_.jpg
+
+newmtl Vegetation_Grass1_343_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_343_.jpg
+
+newmtl Vegetation_Grass1_344_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_344_.jpg
+
+newmtl Vegetation_Grass1_345_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_345_.jpg
+
+newmtl Vegetation_Grass1_346_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_346_.jpg
+
+newmtl Vegetation_Grass1_347_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_347_.jpg
+
+newmtl Vegetation_Grass1_348_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_348_.jpg
+
+newmtl Vegetation_Grass1_349_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_349_.jpg
+
+newmtl Vegetation_Grass1_350_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_350_.jpg
+
+newmtl Vegetation_Grass1_351_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_351_.jpg
+
+newmtl Vegetation_Grass1_352_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_352_.jpg
+
+newmtl Vegetation_Grass1_353_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_353_.jpg
+
+newmtl Vegetation_Grass1_354_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_354_.jpg
+
+newmtl Vegetation_Grass1_355_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_355_.jpg
+
+newmtl Vegetation_Grass1_356_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_356_.jpg
+
+newmtl Vegetation_Grass1_357_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_357_.jpg
+
+newmtl Vegetation_Grass1_358_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_358_.jpg
+
+newmtl Vegetation_Grass1_359_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_359_.jpg
+
+newmtl Vegetation_Grass1_360_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_360_.jpg
+
+newmtl Vegetation_Grass1_361_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_361_.jpg
+
+newmtl Vegetation_Grass1_362_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_362_.jpg
+
+newmtl Vegetation_Grass1_363_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_363_.jpg
+
+newmtl Vegetation_Grass1_364_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_364_.jpg
+
+newmtl Vegetation_Grass1_365_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_365_.jpg
+
+newmtl Vegetation_Grass1_366_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_366_.jpg
+
+newmtl Vegetation_Grass1_367_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_367_.jpg
+
+newmtl Vegetation_Grass1_368_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_368_.jpg
+
+newmtl Vegetation_Grass1_369_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_369_.jpg
+
+newmtl Vegetation_Grass1_370_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_370_.jpg
+
+newmtl Vegetation_Grass1_371_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_371_.jpg
+
+newmtl Vegetation_Grass1_372_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_372_.jpg
+
+newmtl Vegetation_Grass1_373_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_373_.jpg
+
+newmtl Vegetation_Grass1_374_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_374_.jpg
+
+newmtl Vegetation_Grass1_375_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_375_.jpg
+
+newmtl Vegetation_Grass1_376_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_376_.jpg
+
+newmtl Vegetation_Grass1_377_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_377_.jpg
+
+newmtl Vegetation_Grass1_378_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_378_.jpg
+
+newmtl Vegetation_Grass1_379_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_379_.jpg
+
+newmtl Vegetation_Grass1_380_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_380_.jpg
+
+newmtl Vegetation_Grass1_381_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_381_.jpg
+
+newmtl Vegetation_Grass1_382_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_382_.jpg
+
+newmtl Vegetation_Grass1_383_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_383_.jpg
+
+newmtl Vegetation_Grass1_384_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_384_.jpg
+
+newmtl Vegetation_Grass1_385_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_385_.jpg
+
+newmtl Vegetation_Grass1_386_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_386_.jpg
+
+newmtl Vegetation_Grass1_387_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_387_.jpg
+
+newmtl Vegetation_Grass1_388_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_388_.jpg
+
+newmtl Vegetation_Grass1_389_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_389_.jpg
+
+newmtl Vegetation_Grass1_390_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_390_.jpg
+
+newmtl Vegetation_Grass1_391_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_391_.jpg
+
+newmtl Vegetation_Grass1_392_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_392_.jpg
+
+newmtl Vegetation_Grass1_393_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_393_.jpg
+
+newmtl Vegetation_Grass1_394_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_394_.jpg
+
+newmtl Vegetation_Grass1_395_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_395_.jpg
+
+newmtl Vegetation_Grass1_396_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_396_.jpg
+
+newmtl Vegetation_Grass1_397_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_397_.jpg
+
+newmtl Vegetation_Grass1_398_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_398_.jpg
+
+newmtl Vegetation_Grass1_399_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_399_.jpg
+
+newmtl Vegetation_Grass1_400_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_400_.jpg
+
+newmtl Vegetation_Grass1_401_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_401_.jpg
+
+newmtl Vegetation_Grass1_402_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_402_.jpg
+
+newmtl Vegetation_Grass1_403_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_403_.jpg
+
+newmtl Vegetation_Grass1_404_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_404_.jpg
+
+newmtl Vegetation_Grass1_405_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_405_.jpg
+
+newmtl Vegetation_Grass1_406_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_406_.jpg
+
+newmtl Vegetation_Grass1_407_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_407_.jpg
+
+newmtl Vegetation_Grass1_408_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_408_.jpg
+
+newmtl Vegetation_Grass1_409_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_409_.jpg
+
+newmtl Vegetation_Grass1_410_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_410_.jpg
+
+newmtl Vegetation_Grass1_411_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_411_.jpg
+
+newmtl Vegetation_Grass1_412_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_412_.jpg
+
+newmtl Vegetation_Grass1_413_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_413_.jpg
+
+newmtl Vegetation_Grass1_414_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_414_.jpg
+
+newmtl Vegetation_Grass1_415_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_415_.jpg
+
+newmtl Vegetation_Grass1_416_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_416_.jpg
+
+newmtl Vegetation_Grass1_417_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_417_.jpg
+
+newmtl Vegetation_Grass1_418_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_418_.jpg
+
+newmtl Vegetation_Grass1_419_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_419_.jpg
+
+newmtl Vegetation_Grass1_420_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_420_.jpg
+
+newmtl Vegetation_Grass1_421_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_421_.jpg
+
+newmtl Vegetation_Grass1_422_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_422_.jpg
+
+newmtl Vegetation_Grass1_423_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_423_.jpg
+
+newmtl Vegetation_Grass1_424_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_424_.jpg
+
+newmtl Vegetation_Grass1_425_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_425_.jpg
+
+newmtl Vegetation_Grass1_426_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_426_.jpg
+
+newmtl Vegetation_Grass1_427_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_427_.jpg
+
+newmtl Vegetation_Grass1_428_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_428_.jpg
+
+newmtl Vegetation_Grass1_429_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_429_.jpg
+
+newmtl Vegetation_Grass1_430_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_430_.jpg
+
+newmtl Vegetation_Grass1_431_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_431_.jpg
+
+newmtl Vegetation_Grass1_432_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_432_.jpg
+
+newmtl Vegetation_Grass1_433_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_433_.jpg
+
+newmtl Vegetation_Grass1_434_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_434_.jpg
+
+newmtl Vegetation_Grass1_435_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_435_.jpg
+
+newmtl Vegetation_Grass1_436_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_436_.jpg
+
+newmtl Vegetation_Grass1_437_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_437_.jpg
+
+newmtl Vegetation_Grass1_438_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_438_.jpg
+
+newmtl Vegetation_Grass1_439_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_439_.jpg
+
+newmtl Vegetation_Grass1_440_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_440_.jpg
+
+newmtl Vegetation_Grass1_441_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_441_.jpg
+
+newmtl Vegetation_Grass1_442_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_442_.jpg
+
+newmtl Vegetation_Grass1_443_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_443_.jpg
+
+newmtl Vegetation_Grass1_444_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_444_.jpg
+
+newmtl Vegetation_Grass1_445_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_445_.jpg
+
+newmtl Vegetation_Grass1_446_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_446_.jpg
+
+newmtl Vegetation_Grass1_447_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_447_.jpg
+
+newmtl Vegetation_Grass1_448_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_448_.jpg
+
+newmtl Vegetation_Grass1_449_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_449_.jpg
+
+newmtl Vegetation_Grass1_450_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_450_.jpg
+
+newmtl Vegetation_Grass1_451_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_451_.jpg
+
+newmtl Vegetation_Grass1_452_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_452_.jpg
+
+newmtl Vegetation_Grass1_453_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_453_.jpg
+
+newmtl Vegetation_Grass1_454_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_454_.jpg
+
+newmtl Vegetation_Grass1_455_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_455_.jpg
+
+newmtl Vegetation_Grass1_456_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_456_.jpg
+
+newmtl Vegetation_Grass1_457_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_457_.jpg
+
+newmtl Vegetation_Grass1_458_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_458_.jpg
+
+newmtl Vegetation_Grass1_459_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_459_.jpg
+
+newmtl Vegetation_Grass1_460_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_460_.jpg
+
+newmtl Vegetation_Grass1_461_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_461_.jpg
+
+newmtl Vegetation_Grass1_462_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_462_.jpg
+
+newmtl Vegetation_Grass1_463_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_463_.jpg
+
+newmtl Vegetation_Grass1_464_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_464_.jpg
+
+newmtl Vegetation_Grass1_465_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_465_.jpg
+
+newmtl Vegetation_Grass1_466_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_466_.jpg
+
+newmtl Vegetation_Grass1_467_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_467_.jpg
+
+newmtl Vegetation_Grass1_468_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_468_.jpg
+
+newmtl Vegetation_Grass1_469_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_469_.jpg
+
+newmtl Vegetation_Grass1_470_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_470_.jpg
+
+newmtl Vegetation_Grass1_471_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_471_.jpg
+
+newmtl Vegetation_Grass1_472_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_472_.jpg
+
+newmtl Vegetation_Grass1_473_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_473_.jpg
+
+newmtl Vegetation_Grass1_474_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_474_.jpg
+
+newmtl Vegetation_Grass1_475_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_475_.jpg
+
+newmtl Vegetation_Grass1_476_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_476_.jpg
+
+newmtl Vegetation_Grass1_477_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_477_.jpg
+
+newmtl Vegetation_Grass1_478_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_478_.jpg
+
+newmtl Vegetation_Grass1_479_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_479_.jpg
+
+newmtl Vegetation_Grass1_480_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_480_.jpg
+
+newmtl Vegetation_Grass1_481_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_481_.jpg
+
+newmtl Vegetation_Grass1_482_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_482_.jpg
+
+newmtl Vegetation_Grass1_483_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_483_.jpg
+
+newmtl Vegetation_Grass1_484_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_484_.jpg
+
+newmtl Vegetation_Grass1_485_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_485_.jpg
+
+newmtl Vegetation_Grass1_486_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_486_.jpg
+
+newmtl Vegetation_Grass1_487_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_487_.jpg
+
+newmtl Vegetation_Grass1_488_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_488_.jpg
+
+newmtl Vegetation_Grass1_489_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_489_.jpg
+
+newmtl Vegetation_Grass1_490_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_490_.jpg
+
+newmtl Vegetation_Grass1_491_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_491_.jpg
+
+newmtl Vegetation_Grass1_492_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_492_.jpg
+
+newmtl Vegetation_Grass1_493_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_493_.jpg
+
+newmtl Vegetation_Grass1_494_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_494_.jpg
+
+newmtl Vegetation_Grass1_495_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_495_.jpg
+
+newmtl Vegetation_Grass1_496_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_496_.jpg
+
+newmtl Vegetation_Grass1_497_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_497_.jpg
+
+newmtl Vegetation_Grass1_498_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_498_.jpg
+
+newmtl Vegetation_Grass1_499_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_499_.jpg
+
+newmtl Vegetation_Grass1_500_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_500_.jpg
+
+newmtl Vegetation_Grass1_501_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_501_.jpg
+
+newmtl Vegetation_Grass1_502_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_502_.jpg
+
+newmtl Vegetation_Grass1_503_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_503_.jpg
+
+newmtl Vegetation_Grass1_504_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_504_.jpg
+
+newmtl Vegetation_Grass1_505_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_505_.jpg
+
+newmtl Vegetation_Grass1_506_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_506_.jpg
+
+newmtl Vegetation_Grass1_507_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_507_.jpg
+
+newmtl Vegetation_Grass1_508_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_508_.jpg
+
+newmtl Vegetation_Grass1_509_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_509_.jpg
+
+newmtl Vegetation_Grass1_510_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_510_.jpg
+
+newmtl Vegetation_Grass1_511_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_511_.jpg
+
+newmtl Vegetation_Grass1_512_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_512_.jpg
+
+newmtl Vegetation_Grass1_513_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_513_.jpg
+
+newmtl Vegetation_Grass1_514_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_514_.jpg
+
+newmtl Vegetation_Grass1_515_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_515_.jpg
+
+newmtl Vegetation_Grass1_516_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_516_.jpg
+
+newmtl Vegetation_Grass1_517_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_517_.jpg
+
+newmtl Vegetation_Grass1_518_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_518_.jpg
+
+newmtl Vegetation_Grass1_519_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_519_.jpg
+
+newmtl Vegetation_Grass1_520_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_520_.jpg
+
+newmtl Vegetation_Grass1_521_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_521_.jpg
+
+newmtl Vegetation_Grass1_522_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_522_.jpg
+
+newmtl Vegetation_Grass1_523_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_523_.jpg
+
+newmtl Vegetation_Grass1_524_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_524_.jpg
+
+newmtl Vegetation_Grass1_525_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_525_.jpg
+
+newmtl Vegetation_Grass1_526_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_526_.jpg
+
+newmtl Vegetation_Grass1_527_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_527_.jpg
+
+newmtl Vegetation_Grass1_528_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_528_.jpg
+
+newmtl Vegetation_Grass1_529_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_529_.jpg
+
+newmtl Vegetation_Grass1_530_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_530_.jpg
+
+newmtl Vegetation_Grass1_531_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_531_.jpg
+
+newmtl Vegetation_Grass1_532_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_532_.jpg
+
+newmtl Vegetation_Grass1_533_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_533_.jpg
+
+newmtl Vegetation_Grass1_534_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_534_.jpg
+
+newmtl Vegetation_Grass1_535_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_535_.jpg
+
+newmtl Vegetation_Grass1_536_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_536_.jpg
+
+newmtl Vegetation_Grass1_537_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_537_.jpg
+
+newmtl Vegetation_Grass1_538_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_538_.jpg
+
+newmtl Vegetation_Grass1_539_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_539_.jpg
+
+newmtl Vegetation_Grass1_540_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_540_.jpg
+
+newmtl Vegetation_Grass1_541_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_541_.jpg
+
+newmtl Vegetation_Grass1_542_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_542_.jpg
+
+newmtl Color_A09
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.341176 0.243137
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Grass1_543_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_543_.jpg
+
+newmtl Vegetation_Grass1_544_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_544_.jpg
+
+newmtl Vegetation_Grass1_545_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_545_.jpg
+
+newmtl Vegetation_Grass1_546_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_546_.jpg
+
+newmtl Vegetation_Grass1_547_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_547_.jpg
+
+newmtl Vegetation_Grass1_548_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_548_.jpg
+
+newmtl Vegetation_Grass1_549_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_549_.jpg
+
+newmtl Vegetation_Grass1_550_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_550_.jpg
+
+newmtl Vegetation_Grass1_551_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_551_.jpg
+
+newmtl Vegetation_Grass1_552_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_552_.jpg
+
+newmtl Vegetation_Grass1_553_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_553_.jpg
+
+newmtl Vegetation_Grass1_554_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_554_.jpg
+
+newmtl Vegetation_Grass1_555_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_555_.jpg
+
+newmtl Vegetation_Grass1_556_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_556_.jpg
+
+newmtl Vegetation_Grass1_557_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_557_.jpg
+
+newmtl Vegetation_Grass1_558_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_558_.jpg
+
+newmtl Vegetation_Grass1_559_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_559_.jpg
+
+newmtl Vegetation_Grass1_560_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_560_.jpg
+
+newmtl Vegetation_Grass1_561_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_561_.jpg
+
+newmtl Vegetation_Grass1_562_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_562_.jpg
+
+newmtl Vegetation_Grass1_563_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_563_.jpg
+
+newmtl Vegetation_Grass1_564_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_564_.jpg
+
+newmtl Vegetation_Grass1_565_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_565_.jpg
+
+newmtl Vegetation_Grass1_566_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_566_.jpg
+
+newmtl Vegetation_Grass1_567_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_567_.jpg
+
+newmtl Vegetation_Grass1_568_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_568_.jpg
+
+newmtl Vegetation_Grass1_569_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_569_.jpg
+
+newmtl Vegetation_Grass1_570_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_570_.jpg
+
+newmtl Vegetation_Grass1_571_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_571_.jpg
+
+newmtl Vegetation_Grass1_572_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_572_.jpg
+
+newmtl Vegetation_Grass1_573_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_573_.jpg
+
+newmtl Vegetation_Grass1_574_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_574_.jpg
+
+newmtl Vegetation_Grass1_575_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_575_.jpg
+
+newmtl Vegetation_Grass1_576_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_576_.jpg
+
+newmtl Vegetation_Grass1_577_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_577_.jpg
+
+newmtl Vegetation_Grass1_578_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_578_.jpg
+
+newmtl Vegetation_Grass1_579_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_579_.jpg
+
+newmtl Vegetation_Grass1_580_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_580_.jpg
+
+newmtl Vegetation_Grass1_581_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_581_.jpg
+
+newmtl Vegetation_Grass1_582_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_582_.jpg
+
+newmtl Vegetation_Grass1_583_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_583_.jpg
+
+newmtl Vegetation_Grass1_584_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_584_.jpg
+
+newmtl Vegetation_Grass1_585_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_585_.jpg
+
+newmtl Vegetation_Grass1_586_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_586_.jpg
+
+newmtl Vegetation_Grass1_587_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_587_.jpg
+
+newmtl Vegetation_Grass1_588_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_588_.jpg
+
+newmtl Vegetation_Grass1_589_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_589_.jpg
+
+newmtl Vegetation_Grass1_590_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_590_.jpg
+
+newmtl Vegetation_Grass1_591_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_591_.jpg
+
+newmtl Vegetation_Grass1_592_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_592_.jpg
+
+newmtl Vegetation_Grass1_593_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_593_.jpg
+
+newmtl Vegetation_Grass1_594_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_594_.jpg
+
+newmtl Vegetation_Grass1_595_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_595_.jpg
+
+newmtl Vegetation_Grass1_596_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_596_.jpg
+
+newmtl Vegetation_Grass1_597_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_597_.jpg
+
+newmtl Vegetation_Grass1_598_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_598_.jpg
+
+newmtl Vegetation_Grass1_599_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_599_.jpg
+
+newmtl Vegetation_Grass1_600_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_600_.jpg
+
+newmtl Vegetation_Grass1_601_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_601_.jpg
+
+newmtl Vegetation_Grass1_602_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_602_.jpg
+
+newmtl Vegetation_Grass1_603_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_603_.jpg
+
+newmtl Vegetation_Grass1_604_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_604_.jpg
+
+newmtl Vegetation_Grass1_605_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_605_.jpg
+
+newmtl Vegetation_Grass1_606_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_606_.jpg
+
+newmtl Vegetation_Grass1_607_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_607_.jpg
+
+newmtl Vegetation_Grass1_608_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_608_.jpg
+
+newmtl Vegetation_Grass1_609_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_609_.jpg
+
+newmtl Vegetation_Grass1_610_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_610_.jpg
+
+newmtl Vegetation_Grass1_611_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_611_.jpg
+
+newmtl Vegetation_Grass1_612_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_612_.jpg
+
+newmtl Vegetation_Grass1_613_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_613_.jpg
+
+newmtl Vegetation_Grass1_614_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_614_.jpg
+
+newmtl Vegetation_Grass1_615_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_615_.jpg
+
+newmtl Vegetation_Grass1_616_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_616_.jpg
+
+newmtl Vegetation_Grass1_617_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_617_.jpg
+
+newmtl Vegetation_Grass1_618_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_618_.jpg
+
+newmtl Vegetation_Grass1_619_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_619_.jpg
+
+newmtl Vegetation_Grass1_620_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_620_.jpg
+
+newmtl Vegetation_Grass1_621_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_621_.jpg
+
+newmtl Vegetation_Grass1_622_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_622_.jpg
+
+newmtl Vegetation_Grass1_623_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_623_.jpg
+
+newmtl Vegetation_Grass1_624_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_624_.jpg
+
+newmtl Vegetation_Grass1_625_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_625_.jpg
+
+newmtl Vegetation_Grass1_626_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_626_.jpg
+
+newmtl Vegetation_Grass1_627_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_627_.jpg
+
+newmtl Vegetation_Grass1_628_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_628_.jpg
+
+newmtl Vegetation_Grass1_629_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_629_.jpg
+
+newmtl Vegetation_Grass1_630_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_630_.jpg
+
+newmtl Vegetation_Grass1_631_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_631_.jpg
+
+newmtl Vegetation_Grass1_632_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_632_.jpg
+
+newmtl Vegetation_Grass1_633_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_633_.jpg
+
+newmtl Vegetation_Grass1_634_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_634_.jpg
+
+newmtl Vegetation_Grass1_635_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_635_.jpg
+
+newmtl Vegetation_Grass1_636_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_636_.jpg
+
+newmtl Vegetation_Grass1_637_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_637_.jpg
+
+newmtl Vegetation_Grass1_638_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_638_.jpg
+
+newmtl Vegetation_Grass1_639_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_639_.jpg
+
+newmtl Vegetation_Grass1_640_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_640_.jpg
+
+newmtl Vegetation_Grass1_641_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_641_.jpg
+
+newmtl Vegetation_Grass1_642_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_642_.jpg
+
+newmtl Vegetation_Grass1_643_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_643_.jpg
+
+newmtl Vegetation_Grass1_644_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_644_.jpg
+
+newmtl Vegetation_Grass1_645_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_645_.jpg
+
+newmtl Vegetation_Grass1_646_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_646_.jpg
+
+newmtl Vegetation_Grass1_647_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_647_.jpg
+
+newmtl Vegetation_Grass1_648_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_648_.jpg
+
+newmtl Vegetation_Grass1_649_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_649_.jpg
+
+newmtl Vegetation_Grass1_650_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_650_.jpg
+
+newmtl Vegetation_Grass1_651_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_651_.jpg
+
+newmtl Vegetation_Grass1_652_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_652_.jpg
+
+newmtl Vegetation_Grass1_653_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_653_.jpg
+
+newmtl Vegetation_Grass1_654_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_654_.jpg
+
+newmtl Vegetation_Grass1_655_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_655_.jpg
+
+newmtl Vegetation_Grass1_656_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_656_.jpg
+
+newmtl Vegetation_Grass1_657_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_657_.jpg
+
+newmtl Vegetation_Grass1_658_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_658_.jpg
+
+newmtl Vegetation_Grass1_659_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_659_.jpg
+
+newmtl Vegetation_Grass1_660_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_660_.jpg
+
+newmtl Vegetation_Grass1_661_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_661_.jpg
+
+newmtl Vegetation_Grass1_662_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_662_.jpg
+
+newmtl Vegetation_Grass1_663_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_663_.jpg
+
+newmtl Vegetation_Grass1_664_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_664_.jpg
+
+newmtl Vegetation_Grass1_665_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_665_.jpg
+
+newmtl Vegetation_Grass1_666_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_666_.jpg
+
+newmtl Vegetation_Grass1_667_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_667_.jpg
+
+newmtl Vegetation_Grass1_668_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_668_.jpg
+
+newmtl Vegetation_Grass1_669_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_669_.jpg
+
+newmtl Vegetation_Grass1_670_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_670_.jpg
+
+newmtl Vegetation_Grass1_671_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_671_.jpg
+
+newmtl Vegetation_Grass1_672_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_672_.jpg
+
+newmtl Vegetation_Grass1_673_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_673_.jpg
+
+newmtl Vegetation_Grass1_674_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_674_.jpg
+
+newmtl Vegetation_Grass1_675_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_675_.jpg
+
+newmtl Vegetation_Grass1_676_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_676_.jpg
+
+newmtl Vegetation_Grass1_677_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_677_.jpg
+
+newmtl Vegetation_Grass1_678_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_678_.jpg
+
+newmtl Vegetation_Grass1_679_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_679_.jpg
+
+newmtl Vegetation_Grass1_680_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_680_.jpg
+
+newmtl Vegetation_Grass1_681_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_681_.jpg
+
+newmtl Vegetation_Grass1_682_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_682_.jpg
+
+newmtl Vegetation_Grass1_683_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_683_.jpg
+
+newmtl Vegetation_Grass1_684_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_684_.jpg
+
+newmtl Vegetation_Grass1_685_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_685_.jpg
+
+newmtl Vegetation_Grass1_686_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_686_.jpg
+
+newmtl Vegetation_Grass1_687_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_687_.jpg
+
+newmtl Vegetation_Grass1_688_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_688_.jpg
+
+newmtl Vegetation_Grass1_689_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_689_.jpg
+
+newmtl Vegetation_Grass1_690_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_690_.jpg
+
+newmtl Vegetation_Grass1_691_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_691_.jpg
+
+newmtl Vegetation_Grass1_692_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_692_.jpg
+
+newmtl Vegetation_Grass1_693_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_693_.jpg
+
+newmtl Vegetation_Grass1_694_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_694_.jpg
+
+newmtl Vegetation_Grass1_695_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_695_.jpg
+
+newmtl Vegetation_Grass1_696_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_696_.jpg
+
+newmtl Vegetation_Grass1_697_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_697_.jpg
+
+newmtl Vegetation_Grass1_698_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_698_.jpg
+
+newmtl Vegetation_Grass1_699_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_699_.jpg
+
+newmtl Vegetation_Grass1_700_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_700_.jpg
+
+newmtl Vegetation_Grass1_701_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_701_.jpg
+
+newmtl Vegetation_Grass1_702_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_702_.jpg
+
+newmtl Vegetation_Grass1_703_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_703_.jpg
+
+newmtl Vegetation_Grass1_704_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_704_.jpg
+
+newmtl Vegetation_Grass1_705_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_705_.jpg
+
+newmtl Vegetation_Grass1_706_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_706_.jpg
+
+newmtl Vegetation_Grass1_707_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_707_.jpg
+
+newmtl Vegetation_Grass1_708_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_708_.jpg
+
+newmtl Vegetation_Grass1_709_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_709_.jpg
+
+newmtl Vegetation_Grass1_710_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_710_.jpg
+
+newmtl Vegetation_Grass1_711_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_711_.jpg
+
+newmtl Vegetation_Grass1_712_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_712_.jpg
+
+newmtl Vegetation_Grass1_713_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_713_.jpg
+
+newmtl Vegetation_Grass1_714_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_714_.jpg
+
+newmtl Vegetation_Grass1_715_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_715_.jpg
+
+newmtl Vegetation_Grass1_716_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_716_.jpg
+
+newmtl Vegetation_Grass1_717_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_717_.jpg
+
+newmtl Vegetation_Grass1_718_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_718_.jpg
+
+newmtl Vegetation_Grass1_719_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_719_.jpg
+
+newmtl Vegetation_Grass1_720_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_720_.jpg
+
+newmtl Vegetation_Grass1_721_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_721_.jpg
+
+newmtl Vegetation_Grass1_722_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_722_.jpg
+
+newmtl Vegetation_Grass1_723_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_723_.jpg
+
+newmtl Vegetation_Grass1_724_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_724_.jpg
+
+newmtl Vegetation_Grass1_725_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_725_.jpg
+
+newmtl Vegetation_Grass1_726_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_726_.jpg
+
+newmtl Vegetation_Grass1_727_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_727_.jpg
+
+newmtl Vegetation_Grass1_728_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_728_.jpg
+
+newmtl Vegetation_Grass1_729_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_729_.jpg
+
+newmtl Vegetation_Grass1_730_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_730_.jpg
+
+newmtl Vegetation_Grass1_731_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_731_.jpg
+
+newmtl Vegetation_Grass1_732_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_732_.jpg
+
+newmtl Vegetation_Grass1_733_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_733_.jpg
+
+newmtl Vegetation_Grass1_734_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_734_.jpg
+
+newmtl Vegetation_Grass1_735_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_735_.jpg
+
+newmtl Vegetation_Grass1_736_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_736_.jpg
+
+newmtl Vegetation_Grass1_737_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_737_.jpg
+
+newmtl Vegetation_Grass1_738_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_738_.jpg
+
+newmtl Vegetation_Grass1_739_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_739_.jpg
+
+newmtl Vegetation_Grass1_740_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_740_.jpg
+
+newmtl Vegetation_Grass1_741_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_741_.jpg
+
+newmtl Vegetation_Grass1_742_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_742_.jpg
+
+newmtl Vegetation_Grass1_743_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_743_.jpg
+
+newmtl Vegetation_Grass1_744_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_744_.jpg
+
+newmtl Vegetation_Grass1_745_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_745_.jpg
+
+newmtl Vegetation_Grass1_746_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_746_.jpg
+
+newmtl Vegetation_Grass1_747_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_747_.jpg
+
+newmtl Vegetation_Grass1_748_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_748_.jpg
+
+newmtl Vegetation_Grass1_749_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_749_.jpg
+
+newmtl Vegetation_Grass1_750_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_750_.jpg
+
+newmtl Vegetation_Grass1_751_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_751_.jpg
+
+newmtl Vegetation_Grass1_752_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_752_.jpg
+
+newmtl Vegetation_Grass1_753_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_753_.jpg
+
+newmtl Vegetation_Grass1_754_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_754_.jpg
+
+newmtl Vegetation_Grass1_755_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_755_.jpg
+
+newmtl Vegetation_Grass1_756_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_756_.jpg
+
+newmtl Vegetation_Grass1_757_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_757_.jpg
+
+newmtl Vegetation_Grass1_758_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_758_.jpg
+
+newmtl Vegetation_Grass1_759_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_759_.jpg
+
+newmtl Vegetation_Grass1_760_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_760_.jpg
+
+newmtl Vegetation_Grass1_761_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_761_.jpg
+
+newmtl Vegetation_Grass1_762_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_762_.jpg
+
+newmtl Vegetation_Grass1_763_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_763_.jpg
+
+newmtl Vegetation_Grass1_764_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_764_.jpg
+
+newmtl Vegetation_Grass1_765_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_765_.jpg
+
+newmtl Vegetation_Grass1_766_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_766_.jpg
+
+newmtl Vegetation_Grass1_767_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_767_.jpg
+
+newmtl Vegetation_Grass1_768_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_768_.jpg
+
+newmtl Vegetation_Grass1_769_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_769_.jpg
+
+newmtl Vegetation_Grass1_770_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_770_.jpg
+
+newmtl Vegetation_Grass1_771_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_771_.jpg
+
+newmtl Vegetation_Grass1_772_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_772_.jpg
+
+newmtl Vegetation_Grass1_773_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_773_.jpg
+
+newmtl Vegetation_Grass1_774_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_774_.jpg
+
+newmtl Vegetation_Grass1_775_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_775_.jpg
+
+newmtl Vegetation_Grass1_776_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_776_.jpg
+
+newmtl Vegetation_Grass1_777_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_777_.jpg
+
+newmtl Vegetation_Grass1_778_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_778_.jpg
+
+newmtl Vegetation_Grass1_779_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_779_.jpg
+
+newmtl Vegetation_Grass1_780_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_780_.jpg
+
+newmtl Vegetation_Grass1_781_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_781_.jpg
+
+newmtl Vegetation_Grass1_782_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_782_.jpg
+
+newmtl Vegetation_Grass1_783_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_783_.jpg
+
+newmtl Vegetation_Grass1_784_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_784_.jpg
+
+newmtl Vegetation_Grass1_785_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_785_.jpg
+
+newmtl Vegetation_Grass1_786_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_786_.jpg
+
+newmtl Vegetation_Grass1_787_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_787_.jpg
+
+newmtl Vegetation_Grass1_788_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_788_.jpg
+
+newmtl Vegetation_Grass1_789_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_789_.jpg
+
+newmtl Vegetation_Grass1_790_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_790_.jpg
+
+newmtl Vegetation_Grass1_791_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_791_.jpg
+
+newmtl Vegetation_Grass1_792_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_792_.jpg
+
+newmtl Vegetation_Grass1_793_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_793_.jpg
+
+newmtl Vegetation_Grass1_794_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_794_.jpg
+
+newmtl Vegetation_Grass1_795_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_795_.jpg
+
+newmtl Vegetation_Grass1_796_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_796_.jpg
+
+newmtl Vegetation_Grass1_797_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_797_.jpg
+
+newmtl Vegetation_Grass1_798_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_798_.jpg
+
+newmtl Vegetation_Grass1_799_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_799_.jpg
+
+newmtl Vegetation_Grass1_800_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_800_.jpg
+
+newmtl Vegetation_Grass1_801_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_801_.jpg
+
+newmtl Vegetation_Grass1_802_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_802_.jpg
+
+newmtl Vegetation_Grass1_803_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_803_.jpg
+
+newmtl Color_D05
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.949020 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Vegetation_Grass1_804_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_804_.jpg
+
+newmtl Vegetation_Grass1_805_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_805_.jpg
+
+newmtl Vegetation_Grass1_806_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_806_.jpg
+
+newmtl Vegetation_Grass1_807_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_807_.jpg
+
+newmtl Vegetation_Grass1_808_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_808_.jpg
+
+newmtl Vegetation_Grass1_809_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_809_.jpg
+
+newmtl Vegetation_Grass1_810_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_810_.jpg
+
+newmtl Vegetation_Grass1_811_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_811_.jpg
+
+newmtl Vegetation_Grass1_812_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_812_.jpg
+
+newmtl Vegetation_Grass1_813_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_813_.jpg
+
+newmtl Vegetation_Grass1_814_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_814_.jpg
+
+newmtl Vegetation_Grass1_815_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_815_.jpg
+
+newmtl Vegetation_Grass1_816_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_816_.jpg
+
+newmtl Vegetation_Grass1_817_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_817_.jpg
+
+newmtl Vegetation_Grass1_818_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_818_.jpg
+
+newmtl Vegetation_Grass1_819_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_819_.jpg
+
+newmtl Vegetation_Grass1_820_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_820_.jpg
+
+newmtl Vegetation_Grass1_821_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_821_.jpg
+
+newmtl Vegetation_Grass1_822_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_822_.jpg
+
+newmtl Vegetation_Grass1_823_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_823_.jpg
+
+newmtl Vegetation_Grass1_824_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_824_.jpg
+
+newmtl Vegetation_Grass1_825_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_825_.jpg
+
+newmtl Vegetation_Grass1_826_
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.627451 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd florero/Vegetation_Grass1_826_.jpg
+

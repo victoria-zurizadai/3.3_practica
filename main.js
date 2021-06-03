@@ -1,8 +1,4 @@
-document.getElementById("btn1").addEventListener("click",(e)=>{
-   var el=document.querySelector('#id01');
-   el.setAttribute("obj-model", 'obj:url(comedor.obj);mtl:url(comedor.mtl)');
-   el.setAttribute("scale", '.10 .10 .10');
- })
+
  document.getElementById("btn2").addEventListener("click",(e)=>{
 
    var el=document.querySelector('#id01');
